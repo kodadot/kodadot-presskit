@@ -15,6 +15,6 @@ Templates for promo materials are made via Canva, we are using this [template](h
 
 ---
 
-*This presskit may not include all files of logo that you need for your use. 
-Please contact Anett if you need different format of the logo or help with modification of logo for your Community or other use. 
+*This presskit may not include all files of the logo that you need for your use. 
+Please contact Anett if you need a different format of the the logo or help with modification of logo for your Community or other use. 
 Find Anett in KodaDot Telegram and Discord channels or DM her via [Twitter](https://twitter.com/AnettRolikova).*
