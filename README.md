@@ -2,7 +2,7 @@
 
 The Authors of KodaDot logo are
 - [Anett Rolikova](https://twitter.com/AnettRolikova) for [v0-v1](https://github.com/kodadot/kodadot-presskit/tree/main/v0-v1)
-- [XyloDrone](https://twitter.com/xylodrone) for [v2] 
+- [XyloDrone](https://twitter.com/xylodrone) for [v2](https://github.com/kodadot/kodadot-presskit/tree/main/v2) 
 
 ## HEX codes for KodaDot logo: 
 💖 #e6007a pink 
