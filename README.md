@@ -6,13 +6,13 @@ The Authors of KodaDot logo are
 - [XyloDrone](https://twitter.com/xylodrone) for [v3](https://github.com/kodadot/kodadot-presskit/tree/main/v3) 
 
 ## HEX codes for KodaDot logo: 
-💖 #e6007e pink 
-💚 #41b883 green
+- 💖 #e6007e pink 
+- 💚 #41b883 green
 
 ## Font used: 
-Website: [Fira Code](https://fonts.google.com/specimen/Fira+Code)
-Promo: [Kamikaze 3D Gradient](https://fr.ffonts.net/Kamikaze-3D-Gradient-Regular.font)
-Legacy: [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sa)
+- Website: [Fira Code](https://fonts.google.com/specimen/Fira+Code)
+- Promo: [Kamikaze 3D Gradient](https://fr.ffonts.net/Kamikaze-3D-Gradient-Regular.font)
+- Legacy: [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sa)
 
 ## Templates
 Templates for promo materials are made via Canva, we are using this [template](https://www.canva.com/design/DAEY7Isq_LM/b-vxpD0cvSr3ZxVUs_s-Qw/view?utm_content=DAEY7Isq_LM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
