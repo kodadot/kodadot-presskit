@@ -12,6 +12,7 @@ The Authors of KodaDot logo are
 ## Font used: 
 - Website: [Fira Code](https://fonts.google.com/specimen/Fira+Code)
 - Promo: [Kamikaze 3D Gradient](https://fr.ffonts.net/Kamikaze-3D-Gradient-Regular.font)
+- Logo_Font: [Kamikaze Font Family](https://www.1001fonts.com/kamikaze-font.html#license)
 - Legacy: [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sa)
 
 ## Templates
